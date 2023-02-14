@@ -42,3 +42,13 @@ footer {
     margin-top: 1%;
     text-align: center;
 }
+
+#submit {
+    background-color: cornflowerblue;
+    color: black;
+    text-align: center;
+}
+
+#submit:hover {
+    background-color: palevioletred;
+}
