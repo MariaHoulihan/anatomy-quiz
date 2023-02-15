@@ -6,7 +6,7 @@ body {
     text-align: center;
 }
 
-h1 {
+h1, h2, h3 {
     text-align: center;
     background-color: cornflowerblue;
 }
@@ -43,12 +43,23 @@ footer {
     text-align: center;
 }
 
-#submit {
+#instructions {
+    text-align: center;
+    text-transform: capitalize;
+    background-color: cornflowerblue;
+}
+
+#button {
     background-color: cornflowerblue;
     color: black;
     text-align: center;
 }
 
-#submit:hover {
+#button:hover {
     background-color: palevioletred;
+}
+
+ol {
+    text-align: center;
+    font-style: normal;
 }
